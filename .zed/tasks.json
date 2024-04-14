@@ -1,0 +1,7 @@
+[
+  {
+    "label": "Run spell check",
+    "command": "cspell $ZED_FILE",
+    "use_new_terminal": true
+  }
+]
