@@ -33,8 +33,8 @@
   - **Stay Curious**: AI is a rapidly evolving field, so stay curious, keep learning, and be open to new ideas and technologies.
   - **Avoid Hypes**: Be critical of AI hypes and focus on practical applications that solve real-world problems.
   - **Build Projects**: Practice your skills by working on AI projects, such as image recognition, sentiment analysis, or recommendation systems.
+  - **Explore AI libraries and frameworks**: Familiarize yourself with popular AI libraries like TensorFlow, PyTorch, and scikit-learn
   - **Collaborate**: Join AI communities, attend meetups, and collaborate with other AI enthusiasts to learn from each other and stay updated on the latest trends.
-  - **Explore AI libraries and frameworks**: Familiarize yourself with popular AI libraries like TensorFlow, PyTorch, and scikit-learn.
   - **Stay updated**: The field is constantly evolving, so actively follow industry publications, attend conferences like GTC, and participate in online communities.
 
 > **AI AS A PARTNER, NOT A REPLACEMENT**
